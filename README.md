@@ -32,4 +32,4 @@ Practicing DSA in Java, building MERN projects, and exploring Android security. 
 
 ## 🔗 Links
 
-[LinkedIn](https://linkedin.com/in/ramu-sriram) • [Twitter](https://twitter.com/RealRamuSriram) • [Website](https://ramusriram.me/) • [Email](mailto:ramusriram004@gmail.com)
+[LinkedIn](https://linkedin.com/in/ramu-sriram) • [Twitter](https://twitter.com/RealRamuSriram) • [Website](https://ramusriram.me/) • [Email](mailto:ramusriram.dev@gmail.com)
